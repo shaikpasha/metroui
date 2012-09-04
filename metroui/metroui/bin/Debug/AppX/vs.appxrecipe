@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PASHA-WIN8</Machine>
+    <WindowsUser>Pasha</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>3FC2A18BCA417D91438ED41C1D23DBB3CA6585E08F8A4BEF4882B19AE5878793</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d5e1565b-0df5-4049-82f2-97ffe61c968e_1.0.0.0_neutral__t7qdqgcw5cd60</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d5e1565b-0df5-4049-82f2-97ffe61c968e_t7qdqgcw5cd60!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d5e1565b-0df5-4049-82f2-97ffe61c968e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Pasha</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\metroui\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-04T04:58:57.644</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\metroui\bin\Debug\metroui.exe">
+      <PackagePath>metroui.exe</PackagePath>
+      <Modified>2012-09-04T04:58:57.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\metroui\bin\Debug\metroui.pdb">
+      <PackagePath>metroui.pdb</PackagePath>
+      <Modified>2012-09-04T04:58:57.453</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\packages\Microsoft.Composition.1.0.15\lib\netcore45\System.Composition.AttributedModel.dll">
+      <PackagePath>System.Composition.AttributedModel.dll</PackagePath>
+      <Modified>2012-09-04T02:43:33.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\packages\Microsoft.Composition.1.0.15\lib\netcore45\System.Composition.Convention.dll">
+      <PackagePath>System.Composition.Convention.dll</PackagePath>
+      <Modified>2012-09-04T02:43:33.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\packages\Microsoft.Composition.1.0.15\lib\netcore45\System.Composition.Hosting.dll">
+      <PackagePath>System.Composition.Hosting.dll</PackagePath>
+      <Modified>2012-09-04T02:43:33.734</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\packages\Microsoft.Composition.1.0.15\lib\netcore45\System.Composition.Runtime.dll">
+      <PackagePath>System.Composition.Runtime.dll</PackagePath>
+      <Modified>2012-09-04T02:43:33.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\packages\Microsoft.Composition.1.0.15\lib\netcore45\System.Composition.TypedParts.dll">
+      <PackagePath>System.Composition.TypedParts.dll</PackagePath>
+      <Modified>2012-09-04T02:43:33.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\packages\Microsoft.Composition.1.0.15\lib\netcore45\System.Composition.AttributedModel.xml">
+      <PackagePath>System.Composition.AttributedModel.xml</PackagePath>
+      <Modified>2012-09-04T02:43:33.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\packages\Microsoft.Composition.1.0.15\lib\netcore45\System.Composition.Convention.xml">
+      <PackagePath>System.Composition.Convention.xml</PackagePath>
+      <Modified>2012-09-04T02:43:33.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\packages\Microsoft.Composition.1.0.15\lib\netcore45\System.Composition.Hosting.xml">
+      <PackagePath>System.Composition.Hosting.xml</PackagePath>
+      <Modified>2012-09-04T02:43:33.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\packages\Microsoft.Composition.1.0.15\lib\netcore45\System.Composition.Runtime.xml">
+      <PackagePath>System.Composition.Runtime.xml</PackagePath>
+      <Modified>2012-09-04T02:43:33.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\packages\Microsoft.Composition.1.0.15\lib\netcore45\System.Composition.TypedParts.xml">
+      <PackagePath>System.Composition.TypedParts.xml</PackagePath>
+      <Modified>2012-09-04T02:43:33.765</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\metroui\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\metroui\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\metroui\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\metroui\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\metroui\Assets\Themes\background.png">
+      <PackagePath>Assets\Themes\background.png</PackagePath>
+      <Modified>2012-09-04T04:28:11.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\metroui\Assets\Themes\background_first.png">
+      <PackagePath>Assets\Themes\background_first.png</PackagePath>
+      <Modified>2012-09-04T04:22:36.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\metroui\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-09-04T02:44:13.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\metroui\bin\Debug\BasicPage1.xaml">
+      <PackagePath>BasicPage1.xaml</PackagePath>
+      <Modified>2012-09-04T02:44:13.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\metroui\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-04-23T21:03:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\metroui\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-09-04T04:35:55.886</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\metroui\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-09-04T02:43:13.549</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nitheesh\documents\visual studio 2012\Projects\metroui\metroui\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-09-04T04:28:58.017</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
